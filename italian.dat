@@ -1,0 +1,631 @@
+Neutral:Neutro
+Crewmate:Crewmate
+Engineer:Ingegnere
+Scientist:Scienziato
+GuardianAngel:Angelo
+Impostor:Impostore
+Shapeshifter:Mutaforma
+BountyHunter:Cacciatore di taglie
+Mare:Mare
+FireWorks:Fireworker
+SerialKiller:Serial Killer
+ShapeMaster:
+Vampire:Vampiro
+Warlock:Stregone
+Witch:Strega
+Mafia:Mafia
+Puppeteer:
+TimeThief:
+Sniper:Sniper
+EvilTracker:
+Stealth:Invisibile
+NekoKabocha:
+EvilHacker:
+Penguin:Pinguino
+Insider:Insider
+Madmate:
+MadGuardian:
+MadSnitch:
+SKMadmate:
+Bait:
+Lighter:Lighter
+Mayor:Sindaco
+SabotageMaster:Sabotage Master
+Sheriff:Sheriffo
+Arsonist:Incendiario
+Snitch:Spia
+SpeedBooster:Speed Booster
+Doctor:Dottore
+Trapper:Trappola
+Dictator:Dittatore
+Seer:Veggente
+TimeManager:TimeManager
+Jester:Giullare
+Terrorist:Terrorista
+Executioner:carnefice
+SchrodingerCat:
+Opportunist:Opportunista
+Egoist:Egoista
+Lovers:Amanti
+Jackal:Sciacallo
+PlagueDoctor:Dottore della Peste
+HASFox:Fox
+HASTroll:Troll
+GM:GM
+LastImpostor:L'ultimo impostore
+Watcher:Osservatore
+Workhorse:
+Team:Team
+CustomRoleTypes.Crewmate:Crewmate
+CustomRoleTypes.Impostor:Impostore
+CustomRoleTypes.Neutral:Neutrale
+CustomRoleTypes.Madmate:Pazzo
+TeamCrewmate:Team Crewmates
+TeamImpostor:Team Impostori
+TeamEgoist:Team Egoisti
+TeamJackal:Team Sciacalli
+NeutralInfo:Forze indipendenti non affiliate ad altre squadre
+BountyHunterInfo:Elimina il tuo obiettivo
+MareInfo:L'oscurità ti aiuta. Uccidi
+FireWorksInfo:Esci con il BANG
+SerialKillerInfo:Scatena la tua sete di sangue
+ShapeMasterInfo:Muta e confondi gli altri
+VampireInfo:Mordi e uccidi
+WarlockInfo:Lancia le tue maledizioni
+WitchInfo:Lancia i tuoi incantesimi
+MafiaInfo:Aiuta L impostore
+BeforeMafiaInfo:Non puoi ancora uccidere
+AfterMafiaInfo:è il momento di uccidere
+PuppeteerInfo:Manipola un crewmate a uccidere
+TimeThiefInfo:Uccidi per rubare il tempo della riunione
+SniperInfo:Uccidi
+LastImpostorInfo:Sei l'ultimo di noi
+EvilTrackerInfo:Tieni traccia degli altri
+StealthInfo:Agisci diventando invisibile...
+NekoKabochaInfo:Porta il tuo assassino nella tomba
+EvilHackerInfo:Sistemi di hacking
+PenguinInfo:Trascinamo e uccidiamo!
+InsiderInfo:Sapere è potere
+MadmateInfo:
+BeforeMadmateInfo:Completa i tuoi compiti
+MadGuardianInfo:Completa i tuoi compiti e aiuta gli impostori
+MadSnitchInfo:
+SKMadmateInfo:Ora fai parte del Team Impostori
+BaitInfo:Intrappola i tuoi nemici
+LighterInfo:Accendili
+MayorInfo:Il tuo voto ha più influenza
+SabotageMasterInfo:Risolvi i sabotaggi più velocemente
+SheriffInfo:Spara agli impostori
+SnitchInfo:Completa i tuoi compiti per trovare gli impostori
+SpeedBoosterInfo:Aumenta la velocità degli altri
+DoctorInfo:E così morirono...
+TrapperInfo:
+DictatorInfo:Decidi chi espellere
+SeerInfo:Vedi il momento in cui qualcuno muore
+TimeManagerInfo:Svolgi i compiti e prolunga il tempo della riunione
+ArsonistInfo:Riduceteli in cenere
+JesterInfo:Fatti votare
+OpportunistInfo:Rimani in vita
+SchrodingerCatInfo:Fatti uccidere e unisciti alla squadra del tuo assassino
+CSchrodingerCatInfo:Ora sei nel Team Crewmate
+MSchrodingerCatInfo:Ora sei nel Team Impostori
+EgoSchrodingerCatInfo:Ora sei nel Team Egoisti
+JSchrodingerCatInfo:Ora sei nel Team Sciacalli
+TerroristInfo:Completa i tuoi compiti, POI muori
+ExecutionerInfo:Fai votare il tuo obiettivo
+EgoistInfo:Conquista la vittoria degli Impostori
+LoversInfo:Vivere e morire, insieme
+JackalInfo:Uccidi tutti
+PlagueDoctorInfo:Diffondi la malattia per spazzare via l'equipaggio
+HASFoxInfo:
+HASTrollInfo:Fatti uccidere
+GMInfo:Tu sei il Maestro del Gioco
+WatcherInfo:Osserva tutti i voti
+WorkhorseInfo:Hai compiti extra
+BountyHunterInfoLong:Se uccidi il bersaglio indicato, il tempo di recupero dell'uccisione successiva sarà notevolmente ridotto.\nSe uccidi qualcuno diverso dal tuo bersaglio, il tempo di recupero dell'uccisione successiva aumenterà.\nIl bersaglio verrà scambiato dopo un periodo di tempo configurabile.
+FireWorksInfoLong:Ogni volta che cambi forma, puoi posizionare un fuoco d'artificio.\n Dopo aver posizionato tutti i fuochi d'artificio, puoi farli esplodere tutti contemporaneamente quando cambi forma una volta diventato l'ultimo impostore.\nUna volta che inizi a posizionare i fuochi d'artificio, non puoi uccidere finché i fuochi d'artificio non si spengono .
+SerialKillerInfoLong:Hai un tempo di recupero dell'uccisione più breve rispetto a quello degli altri impostori, ma morirai se non uccidi prima della fine del tempo di recupero del mutaforma.
+ShapeMasterInfoLong:ShapeMaster non ha un tempo di recupero di Shapeshift.\nD'altra parte, la durata predefinita di Shapeshift è più breve (default: 10s).
+MareInfoLong:Puoi uccidere solo durante la modalità Fix Lights.\Quando effettui un'uccisione, il tempo di recupero dell'uccisione successiva verrà dimezzato.\Durante la modalità Fix Lights puoi muoverti più velocemente, ma anche il tuo nome verrà visualizzato in rosso per tutti.
+VampireInfoLong:Puoi effettuare uccisioni ritardate mordendo gli altri.\n(I giocatori morsi moriranno allo scadere del ritardo o nel momento in cui viene convocata una riunione prima di allora.)\nSe mordi un [Esca](#Esca), non si verifica alcun ritardo e sei costretto a autodenunciarti.
+WarlockInfoLong:Gli stregoni possono maledire un altro giocatore prima di Mutare forma.\nQuando cambiano forma dopo aver maledetto, il giocatore accanto al maledetto viene ucciso, non importa quanto lontano sia.\nMentre Shpashift, puoi eseguire uccisioni normali.\nInoltre, solo un giocatore può essere maledetto per turno.
+WitchInfoLong:La tua uccisione si alterna tra "Uccidi" e "Incantesimo" in base alle azioni.\nQuando uccidi con il tuo "Incantesimo", streghi il giocatore.\nI giocatori che sono stati stregati hanno un segno † visualizzato accanto a loro e devono votare per eliminare la Strega all'interno quell'incontro, altrimenti moriranno al termine dell'incontro.
+MafiaInfoLong:All'inizio del gioco, non puoi uccidere anche se vedrai il pulsante di uccisione.\nDopo che i tuoi compagni impostori saranno morti, potrai uccidere.
+PuppeteerInfoLong:Invece di uccidere qualcuno, le "uccisioni" possono costringere un giocatore a uccidere il prossimo non impostore a cui si avvicina.\nSe il giocatore ucciso dal tuo pupazzo ha un'abilità che si attiva dopo la morte, l'effetto si riverserà sul pupazzo invece che su te stesso.\nTu non puoi eseguire un'uccisione normale.
+TimeThiefInfoLong:Ogni uccisione riduce il tempo dedicato alla discussione e alla votazione nella riunione.\nSe vieni eliminato o ucciso, il tempo perduto ritorna alle riunioni.
+SniperInfoLong:Puoi sparare ai giocatori da lontano.\nLa tua linea di fuoco continua come una linea retta nella direzione del punto in cui cambi forma fino al punto in cui ti sposti.\nNon puoi eseguire uccisioni normali finché non esaurisci tutte le munizioni.
+EvilTrackerInfoLong:Puoi vedere dove sono gli altri.\Vedrai delle frecce che puntano agli altri impostori e a chiunque ti trasformi.\Vedrai un "kill flash" quando i tuoi compagni impostori uccidono.
+StealthInfoLong:Quando lo Stealth uccide, i giocatori nella stessa stanza vengono accecati per un breve periodo.
+NekoKabochaInfoLong:Il Neko-Kabocha uccide il loro assassino.
+EvilHackerInfoLong:EvilHacker può ottenere le informazioni amministrative dell'ultimo minuto all'inizio della riunione.\nLe stanze non occupate non vengono mostrate.\nUn '★' contrassegna le stanze con impostori.\nLe stanze con cadaveri sono contrassegnate con il numero di corpi.\ne.g .)★Caffetteria: 3(MORTO×1)
+PenguinInfoLong:I pinguini possono trattenere il bersaglio premendo il pulsante di uccisione e trascinarlo in giro.\Durante il trascinamento, il bersaglio muore premendo nuovamente il pulsante di uccisione o dopo un certo periodo di tempo.\nPremi il pulsante di uccisione due volte per un'uccisione diretta.
+InsiderInfoLong:Puoi vedere i ruoli di chi hai ucciso.\nPuoi anche vedere i ruoli e le abilità di tutti gli impostori.\nUccidere orari specificati te lo dice anche Madmate.
+MadmateInfoLong:Sei un compagno di squadra, ma ti comporti come alleato degli impostori.\Tu e gli impostori non potete riconoscervi a vicenda.\Puoi sfogarti e non hai compiti.
+MadGuardianInfoLong:Sei un membro dell'equipaggio, ma agisci come alleato degli impostori.\nTu e gli impostori non potete riconoscervi a vicenda.\nUna volta completati i vostri compiti, sarete protetti dalle uccisioni degli impostori.
+MadSnitchInfoLong:Sei un membro dell'equipaggio, ma agisci come alleato degli impostori.\nTu e gli impostori non potete riconoscervi a vicenda, ma una volta completati tutti i compiti, potrete vedere chi sono gli impostori.
+SKMadmateInfoLong:(Impostors):\Il giocatore più vicino a un Mutaforma quando cambia forma diventerà un Sidekick Madmate. Non hai attività.
+BaitInfoLong:Quando vieni ucciso, costringi il tuo assassino a denunciarsi immediatamente.
+LighterInfoLong:La tua visione aumenterà.
+MayorInfoLong:Hai più voti, che andranno tutti alla persona che voti o salti.
+SabotageMasterInfoLong:Puoi riparare i reattori, l'O2 e le comunicazioni da solo.\nLe luci possono essere riparate con il semplice tocco di un interruttore.\nAprendo una porta si apriranno tutte le porte di quella stanza.
+SheriffInfoLong:Puoi uccidere chiunque nel Team Impostors.\nL'abilità di uccidere i Neutrali è un'impostazione configurabile.\nSe provi a uccidere un equipaggio, ucciderai te stesso. Non hai attività.
+SnitchInfoLong:Una volta completati tutti i tuoi compiti, i nomi degli impostori ti verranno visualizzati in rosso.\nQuando ti rimane solo un compito, verrà visualizzato un segno ★ accanto al tuo nome e sarai esposto agli impostori.
+LoversInfoLong:(Neutrals):\nLovers è un ruolo Neutrale aggiuntivo assegnato a 2 giocatori casuali in aggiunta ai ruoli definiti.\nSe tu e il tuo amante sopravvivete entrambi fino alla fine, vincerete entrambi.\nSe uno di voi muore, morirà anche l'altro. Se i compagni di squadra ottengono una vittoria in un compito, perderete entrambi.
+SpeedBoosterInfoLong:Una volta terminati i tuoi compiti, un giocatore vivente casuale riceverà un aumento di velocità.
+DoctorInfoLong:Puoi vedere la causa della morte di tutti i giocatori.\nInoltre, puoi accedere ai parametri vitali ovunque tu sia mentre hai ancora la batteria.
+TrapperInfoLong:Quando vieni ucciso, immobilizzi il tuo assassino per un periodo di tempo configurabile.
+DictatorInfoLong:Quando voti qualcuno, la riunione terminerà all'istante e il giocatore che hai votato verrà espulso.\nNel momento in cui voterai qualcuno fuori, morirai anche tu.\nQuando voti per qualcuno in una riunione, interrompono con la forza quella riunione e esilia il giocatore per cui votano.\nDopo aver esercitato la forza, i dittatori muoiono subito dopo essersi incontrati.
+SeerInfoLong:Ogni volta che qualcuno muore, vedrai un "Kill Flash".
+TimeManagerInfoLong:Più attività svolgi, più a lungo durerà la riunione. Quando muori, l'orario della riunione verrà ripristinato.
+ArsonistInfoLong:Quando usi il pulsante di uccisione, immergi il tuo bersaglio nell'olio.\nDopo aver innaffiato tutti i giocatori vivi, dai fuoco a tutto e vinci botolando.
+JesterInfoLong:Vinci da solo se vieni eliminato durante una riunione.\nSe il gioco termina senza che tu venga eliminato o se vieni ucciso, perdi.
+TerroristInfoLong:Vinci da solo se vieni ucciso o eliminato DOPO aver finito i tuoi compiti.
+ExecutionerInfoLong:Ti viene assegnato un bersaglio che ha un simbolo di diamante che solo tu puoi vedere accanto al suo nome.\nVinci se quel bersaglio viene eliminato da te. Se il tuo obiettivo viene ucciso, il tuo ruolo cambia in qualcos'altro.\nSe il tuo obiettivo è Jester, vincerai insieme a Jester.
+SchrodingerCatInfoLong:Quando vieni ucciso, blocchi l'uccisione e ti unisci alla squadra dell'attaccante.
+OpportunistInfoLong:Finché sarai vivo alla fine del gioco, vincerai insieme a chiunque sia il vincitore.
+EgoistInfoLong:Quando tutti gli impostori saranno morti, vincerai da solo soddisfacendo le condizioni di vittoria dell'impostore.\nTu e gli impostori sapete chi siete.
+JackalInfoLong:Jackal/sciacallo può uccidere tutti i compagni di squadra, gli impostori e i neutrali.\nIl Team Jackal vince quando i Jackal viventi superano i compagni di squadra viventi e quando non ci sono impostori vivi.
+PlagueDoctorInfoLong:L'obiettivo del Dottore della Peste è infettare ogni giocatore vivente.\nIniziano scegliendo un giocatore da infettare, dopodiché chiunque trascorra un determinato\nperiodo di tempo nel raggio d'azione del giocatore infetto viene infettato a sua volta.\nIl progresso dell'infezione è cumulativo e non non reimpostato con la distanza o dopo le riunioni.
+HASFoxInfoLong:(HideAndSeek):\nThey win the game with other Roles (except Troll) only if they are alive at the game end.
+HASTrollInfoLong:(Hide and Seek):\nYou solo victory when you are killed. In this case, even if the Fox is alive, they will lose.
+GMInfoLong:(None):\nThe GM (Game Master) is an observer role.\nTheir presence has no effect on the game, and all players know who the GM is. The GM role will be assigned to the host, who will automatically become a ghost at the start of the game.
+LastImpostorInfoLong:(Add-ons):\nAn Add-on granted to the last Impostor remaining.\nKill cooldown is reduced according to this setting.\nNot granted to Bounty Hunters, Serial Killers, or Vampires.
+WatcherInfoLong:(Add-ons):\nYou can see everyone's votes even if anonymous voting is on.
+WorkhorseInfoLong:(Add-ons):\nAn Add-on granted to the first living Crewmate finishing all the tasks.\nYou are assigned additional tasks necessary for the tasks win.\nNot granted to roles with no tasks or with abilities triggered by finishing tasks.
+Basis:Base
+HideAndSeek:Nascondino
+NoGameEnd:Nessuna fine del gioco
+SyncButtonMode:Modalità pulsante di sincronizzazione
+RandomMapsMode:Modalità mappe casuali
+SyncedButtonCount:Numero massimo di riunioni consentiti
+AddedTheSkeld:Includi TheSkeld
+AddedMIRAHQ:Includi MIRAHQ
+AddedPolus:Includi Polus
+AddedTheAirShip:Includi TheAirShip
+AddedTheFungle:Includi TheFungle
+AllAliveMeeting:Meeting quando nessuno è morto
+AllAliveMeetingTime:Tempo Meeting quando nessuno è morto
+AdditionalEmergencyCooldown:Tempo cooldown emergenza
+AdditionalEmergencyCooldownThreshold:Conteggio dei giocatori viventi applicato
+AdditionalEmergencyCooldownTime:Tempo extra cooldown emergenza
+LadderDeath:Caduta dalle scale
+LadderDeathChance:Possibilità di cadere e morire
+DisableTasks:Disabilita Tasks
+DisableSwipeCardTask:Disabilita Tessera
+DisableSubmitScanTask:Disabilita Scan
+DisableUnlockSafeTask:Disabilita UnlockSafe???
+DisableUploadDataTask:Disabilita Download/upload
+DisableStartReactorTask:Disabilita memory
+DisableResetBreakerTask:Disable devia/accetta energia
+SuffixMode:Suffix
+SuffixMode.None:Sempre
+SuffixMode.Version:Version
+SuffixMode.Streaming:Streaming
+SuffixMode.Recording:Recording
+SuffixMode.RoomHost:Room Host
+SuffixMode.OriginalName:Nome Originale
+ColorNameMode:modo colore del nome
+FixFirstKillCooldown:Normalizza il tempo di recupero della prima uccisione
+GhostCanSeeOtherRoles:I fantasmi possono vedere altri ruoli
+GhostCanSeeOtherTasks:I fantasmi possono vedere altre attività
+GhostCanSeeOtherVotes:I fantasmi possono vedere altri voti
+GhostCanSeeDeathReason:Il fantasma può vedere la causa della morte
+GhostIgnoreTasks:Fantasmi esenti dai compiti
+DisableTaskWin:Disabilita vincita da task
+HideGameSettings:Nascondi impostazioni di gioco
+RoleOptions:opzioni dei ruoli
+ModeOptions:Modo delle opzioni
+AutoDisplayLastResult:Visualizzazione automatica dell'ultimo risultato
+AutoDisplayKillLog:Visualizzazione automatica del registro delle uccisioni
+VoteMode:Modalità di votazione
+WhenSkipVote:Quando si Salta la Votazione
+WhenSkipVoteIgnoreFirstMeeting:Ignora primo Meeting
+WhenSkipVoteIgnoreNoDeadBody:Ignore quando non ci sono morti
+WhenSkipVoteIgnoreEmergency:Ignora meeeting
+WhenNonVote:Quando non si vota
+Default:Default
+Suicide:Suicidio
+SelfVote:self
+Skip:Skip
+WhenTie:In caso di parità di voto
+TieMode.Default:
+TieMode.All:espelli tutti
+TieMode.Random:espelli random
+DisableDevices:Disabilita Dispositivi
+DisableSkeldDevices:Disabilita Dispositivi Skeld
+DisableMiraHQDevices:Disabilita Dispositivi MiraHQ
+DisablePolusDevices:Disabilita Dispositivi Polus
+DisableAirshipDevices:Disabilita Dispositivi Airship
+DisableFungleDevices:Disabilita Dispositivi Fungle
+DisableSkeldAdmin:Disabilita Admin Skeld
+DisableMiraHQAdmin:Disabilita Admin MiraHQ
+DisablePolusAdmin:Disabilita Admin Polus
+DisableAirshipCockpitAdmin:
+DisableAirshipRecordsAdmin:
+DisableSkeldCamera:Disabilita videoCamera Skeld
+DisablePolusCamera:Disabilita videoCamera Polus
+DisableAirshipCamera:Disabilita videoCamera Airship
+DisableMiraHQDoorLog:Disabilita DoorLog MiraHQ
+DisablePolusVital:Disabilita vital Polus
+DisableAirshipVital:Disabilita vital Airship
+DisableFungleVital:Disabilita vital Fungle
+IgnoreConditions:Ignora condizioni
+IgnoreImpostors:Ignora Impostori
+IgnoreMadmates:Ignora Madmates
+IgnoreNeutrals:Ignora Neutrali
+IgnoreCrewmates:Ignora Crewmate
+IgnoreAfterAnyoneDied:Ignora dopo che qualcuno è morto
+LightsOutSpecialSettings:Correggi le impostazioni speciali delle luci
+DisableAirshipViewingDeckLightsPanel:Disabilita la visualizzazione del pannello delle luci del ponte(Airship)
+DisableAirshipGapRoomLightsPanel:Disabilita il pannello delle luci della Gap Room(Airship)
+DisableAirshipCargoLightsPanel:disabilitare il pannello luci cargo(Airship)
+BlockDisturbancesToSwitches:Blocca gli interruttori quando sono attivi
+MapModification:Modifiche mappa
+DisableAirshipMovingPlatform:Disabilita piattaforma mobile(Airship)
+AirShipVariableElectrical:Variabile Electricca(AirShip)
+ResetDoorsEveryTurns:Reimposta le porte dopo la riunione(Airship/Polus/Fungle)
+DoorsResetMode:Reset Mode
+AllOpen:Tutte aperte
+AllClosed:Tutte chiuse
+RandomByDoor:Casuale per porta
+DisableFungleSporeTrigger:Prevenire l'attivazione delle spore(Fungle)
+RandomSpawn:Random Spawn
+CommsCamouflage:Muta durante il sabotaggio delle comunicazioni
+EnableDebugMode:Enable Debug Mode
+ChangeNameToRoleInfo:Mostra le descrizioni dei ruoli al client non modificato
+RoleAssigningAlgorithm:Algoritmo di assegnazione dei ruoli
+RoleAssigningAlgorithm.Default:
+RoleAssigningAlgorithm.NetRandom:
+RoleAssigningAlgorithm.HashRandom:
+RoleAssigningAlgorithm.Xorshift:
+RoleAssigningAlgorithm.MersenneTwister:
+ApplyDenyNameList:Applica elenco Nomi vietati
+KickPlayerFriendCodeNotExist:Espellere i giocatori il cui codice amico non esiste
+ApplyBanList:Applica lista Ban
+HideAndSeekInfo:Hide and Seek:\nNessuna riunione di emergenza. I compagni di squadra (blu) possono vincere solo completando i compiti\ne gli impostori (rossi) possono vincere solo uccidendo tutti i compagni di squadra.
+StandardHASInfo:Hide and Seek with Roles:\nNessuna riunione di emergenza. I compagni di squadra possono vincere solo completando i compiti e gli impostori possono vincere solo uccidendo tutti i compagni di squadra.
+NoGameEndInfo:No Game End:\nUna modalità per il debug senza vittoria. L'unico modo per terminare il gioco è avere l'host MAIUSC+L+INVIO.
+SyncButtonModeInfo:Sync Button Mode:\nUna modalità in cui tutti i giocatori condividono il totale dei pulsanti disponibili.
+SabotageTimeControlInfo:Sabotage Duration Control:\nPuò alterare la durata di alcuni sabotaggi.
+RandomMapsModeInfo:Random Maps Mode:\nUna modalità in cui la mappa cambia in modo casuale.
+DisableDevicesInfo:DisableDevices:\nÈ possibile disattivare vari dispositivi.
+Cooldown:Cooldown
+KillCooldown:Kill Cooldown
+CanVent:Può botolare
+ImpostorVision:Visione Impostore
+CanUseSabotage:Può sabotare
+CanCreateMadmate:Può rendere SideKick Madmate?
+AssignMode:Assegna algoritmo
+AssignAlgorithm.Fixed:Fisso
+AssignAlgorithm.Random:Random
+RoleTypeMin:Min %roleType% Roles
+RoleTypeMax:Max %roleType% Roles
+%roleTypes%Maximum:Max Giocatori In %roleTypes%
+FixedRole:Ruolo fisso
+Role:Ruoli
+BountyTargetChangeTime:Tempo fino allo scambio del target
+BountySuccessKillCooldown:Kill Cooldown Dopo aver ucciso il target
+BountyFailureKillCooldown:Kill Cooldown Dopo aver ucciso altri
+BountyShowTargetArrow:Mostra la freccia che punta al target
+DefaultShapeshiftCooldown:Tempo di recupero predefinito di Mutaforma
+VampireKillDelay:Ritardo kill
+MareAddSpeedInLightsOut:Aggiungi velocità a luci spente
+MareKillCooldownInLightsOut:Kill Cooldown durante luci spente
+SabotageMasterSkillLimit:Conteggio utilizzo abilità (escluse le porte)
+CanMakeMadmateCount:Sidekick Madmate Max Count
+MadSnitchTasks:Task del Mad Snitch 
+MadSnitchCanAlsoBeExposedToImpostor:Noto agli impostori
+MadSnitchTaskTrigger:Tasks fino all'attivazione del potenziamento
+MadGuardianCanSeeWhoTriedToKill:Può vedere il tentato omicidio
+MadmateCanFixLightsOut:I ruoli Mad possono fixxare luci
+MadmateCanFixComms:I ruoli Mad possono fixxare Comms
+MadmateHasImpostorVision:I ruoli Mad hanno la visuale dell impostore
+MadmateCanSeeKillFlash:I ruoli Mad possono vedere ''Kill Flash''
+MadmateCanSeeOtherVotes:I ruoli Mad possono vedere i voti
+MadmateCanSeeDeathReason:I ruoli Mad possono vedere la causa della morte
+MadmateExileCrewmate:I Madmates vendicano un compagno di squadra quando viene esiliato
+MadmateVentCooldown: Cooldown botola ruoli Mad
+MadmateVentMaxTime:tempo in botola per ruoli Mad
+LighterMaxVision:Massima visione
+LighterTaskCompletedDisableLightOut:Ignora l'effetto correzione luci
+LighterTriggerType:Condizione di attivazione dell'abilità
+LighterTaskTrigger:
+SabotageMasterFixesDoors:Può aprire più porte
+SabotageMasterFixesReactors:Può riparare entrambi i reattori
+SabotageMasterFixesOxygens:Può riparare entrambi O2
+SabotageMasterFixesCommunications:Può riparare Comms In MIRA HQ
+SabotageMasterFixesElectrical:Può riparare le luci con un interruttore
+SheriffCanKill%role%:può killare %role%
+SheriffCanKillNeutrals:può killare i Neutrali
+SheriffCanKillAll:<color=#4cb3fe>Tutti ON</color>
+SheriffCanKillSeparately:Impostazioni individuali
+In%team%:(Team %team%)
+SheriffMisfireKillsTarget:uccidere un crew uccide lo sceriffo
+SheriffShotLimit:Munizioni
+SheriffCanKillAllAlive:Può uccidere quando nessuno è morto
+DoctorTaskCompletedBatteryCharge:Durata batteria
+SnitchEnableTargetArrow:Può vedere la freccia per mirare
+SnitchCanGetArrowColor:Può vedere la freccia colorata della squadra bersaglio
+SnitchCanFindNeutralKiller:Può trovare assassini neutrali
+SnitchRemainingTaskFound:Attività rimanenti da fare
+SpeedBoosterUpSpeed:Aumento della velocità del giocatore casuale
+SpeedBoosterTaskTrigger:
+MayorAdditionalVote:Voti aggiuntivi
+MayorHasPortableButton:Il sindaco ha un pulsante di emergenza mobile(se botola)
+MayorNumOfUseButton:Numero emergenze
+CanBeforeSchrodingerCatWinTheCrewmate:può vincere con i Crewmates
+SchrodingerCatExiledTeamChanges:cambia Team quando viene espulso
+SchrodingerCatCanSeeKillableTeammate:Può vedere un compagno di squadra uccidibile
+ExecutionerCanTargetImpostor:Può prendere di mira gli impostori
+ExecutionerCanTargetNeutralKiller:Può prendere di mira i neutrali
+ExecutionerChangeRolesAfterTargetKilled:Il ruolo cambia quando il bersaglio muore
+SerialKillerLimit:Tempo fino al suicidio
+ArsonistDouseTime:Tempo fino al completamento di inzuppare
+CanTerroristSuicideWin:Può vincere con il suicidio
+ShapeMasterShapeshiftDuration:Durata del mutaforma
+FireWorksMaxCount:Conteggio Fireworks 
+FireWorksRadius:Raggio di esplosione Firework
+SniperBulletCount:Munizioni
+SniperPrecisionShooting:Tiro di precisione
+SniperAimAssist:Mira assistita
+SniperAimAssistOneshot:Mira assistita colposingolo
+NumberOfLovers:Numero di amanti (coppie)
+TimeThiefDecreaseMeetingTime:Time Thief Tempo rubato
+TimeThiefLowerLimitVotingTime:Tempo minimo di votazione
+TimeThiefReturnStolenTimeUponDeath:Restituire il tempo rubato dopo la morte
+EvilTrackerCanSeeKillFlash:Può vedere ''Kill Flash''
+EvilTrackerTargetMode:Può vedere il Target
+EvilTrackerTargetMode.Never:Mai
+EvilTrackerTargetMode.OnceInGame:Una volta in gioco
+EvilTrackerTargetMode.EveryMeeting:Ogni Meeting
+EvilTrackerTargetMode.Always:Sempre
+EvilTrackerCanSeeLastRoomInMeeting:Può vedere l'ultima stanza del target nella riunione
+KillFlashDuration:Durata "Kill Flash"
+WitchModeSwitchAction:Azione del cambio di modalità
+TriggerKill:Kill
+TriggerVent:Vent
+TimeManagerIncreaseMeetingTime:Aumentare il tempo di votazione
+TimeManagerLimitMeetingTime:Aumentare il limite
+TriggerDouble:Doppio click
+AssignOnlyTo%role%:Assegna solo a %role%
+WorkhorseNumLongTasks: Long Tasks extra
+WorkhorseNumShortTasks:Short Tasks extra
+StealthExcludeImpostors:Escludere gli impostori dalla cecità
+StealthDarkenDuration:Durata della cecità
+NekoKabochaImpostorsGetRevenged:Gli impostori si vendicano
+NekoKabochaMadmatesGetRevenged:I Madmates si vendicano
+NekoKabochaRevengeOnExile:Si vendica se esiliato
+EvilHackerCanSeeDeadMark:Può vedere la posizione dei cadaveri
+EvilHackerCanSeeImpostorMark:Può vedere la posizione di altri impostori
+EvilHackerCanSeeKillFlash:Può vedere KillFlash
+EvilHackerCanSeeMurderRoom:Può vedere il luogo dell'omicidio
+PenguinAbductTimerLimit:Tempo di trascinamento
+PenguinMeetingKill:Uccidi se la riunione inizia durante il trascinamento
+InsiderCanSeeImpostorAbilities:Può vedere le abilità dell'impostore
+InsiderCanSeeAllGhostsRoles:Può vedere tutti i ruoli dei Fantasmi
+InsiderCanSeeMadmates:Può vedere i Madmates
+InsiderKillCountToSeeMadmates:Kill per vedere i Madmates
+PlagueDoctorInfectLimit:Conteggio infetti
+PlagueDoctorInfectWhenKilled:Infetta quando viene ucciso
+PlagueDoctorInfectTime:Tempo di infezione
+PlagueDoctorInfectDistance:Distanza di infezione
+PlagueDoctorInfectInactiveTime:tempo per rendere l infezione invalida
+PlagueDoctorCanInfectSelf:Può Autoinfettarsi
+PlagueDoctorCanInfectVent:Può infettare in botola
+Junction:Giunzione
+OfficeLeft:Office Left
+OfficeRight:Office Right
+Rocket:Rocket
+Toilet:Toilet
+NapRoom:Nap Room
+Bonfire:Bonfire
+JungleTop:Jungle Top
+JungleBottom:Jungle Bottom
+Precipice:Precipice
+TaskProgressRate:Task Progress
+TaskCount:Task Count
+HideAndSeekOptions:Impostazioni Nascondino
+AllowCloseDoors:Consenti sabotaggio porta
+TrapperBlockMoveTime:Durata intrappolato
+HideAndSeekWaitingTime:Tempo(i) di standby dell'impostore
+IgnoreVent:Disabilita Botole
+HideAndSeekRoles:ruoli nascondino
+DeathReason.Kill:
+DeathReason.Vote:Ejected
+DeathReason.Suicide:
+DeathReason.Spell:Spell
+DeathReason.Bite:Bitten
+DeathReason.FollowingSuicide:Lover's Suicide
+DeathReason.Bombed:Explosion
+DeathReason.Misfire:Misfire
+DeathReason.Torched:Torched
+DeathReason.Sniped:Snipe
+DeathReason.Execution:Execution
+DeathReason.Disconnected:Disconnected
+DeathReason.Fall:Fall
+DeathReason.Revenge:Revenge
+DeathReason.Infected:Infected
+DeathReason.etc:Other
+Alive:Alive
+Win: Wins
+Last-:Last 
+SabotageTimeControl:Controllo della durata del sabotaggio
+PolusReactorTimeLimit:Polus Durata del reattore
+AirshipReactorTimeLimit:Airship Durata del reattore
+FungleReactorTimeLimit:Fungle Durata del reattore
+FungleMushroomMixupDuration:Fungle Mushroom Durata mix
+ModifySabotageCooldown:Controllo cooldown sabotaggio
+SabotageCooldown:Sabotaggio-Cooldown
+Close:Chiuso
+TOHOptions:<color=#00bfff>TOH</color> Options
+ForceJapanese:Force Japanese
+JapaneseRoleName:Japanese Role Name
+UnloadMod:Disabilita la Mod
+UnloadWarning:<color=#ffff00><size=200%>Attenzione</size></color>\n\nPer riattivare la mod, è necessario riavviare il gioco. Vuoi continuare comunque?
+CannotUnloadDuringGame:La mod non può essere disabilitata durante una partita.
+Cancel:Cancel
+Unload:DISABILITA
+DumpLog:Output Log
+CommandList:Command List:
+Command.winner:Mostra vincitori
+Command.lastresult:Mostra Risultati
+Command.rename:Cambia nome Host
+Command.now:Mostra impostazioni attive
+Command.h_now:Descrive impostazioni attive
+Command.h_roles:<RoleName> - Visualizza la descrizione del ruolo
+Command.h_addons:<Add-Ons Name> - Visualizza la descrizione add-on
+Command.h_modes:<ModeName> - Display Mode Description
+Command.dump:Log di output sul desktop
+Command.h_args:Argomenti disponibili (tagliati)
+CantUse.lastresult:Impossibile utilizzare /ultimo risultato durante una partita.
+CantUse.killlog:Impossibile utilizzare /killlog durante una partita.
+Message.SetToSeconds:Set to {0} seconds.
+Message.MessageWaitHelp:Specify the first argument in seconds.
+Message.TemplateNotFoundHost:No messages matching "{0}" were found.\nPlease add to template.txt like so:\n{0}:contents\n\nDefined Tags:\n{1}
+Message.TemplateNotFoundClient:No messages matching "{0}" were found.
+Message.SyncButtonLeft:There are {0} more emergency buttons left
+Message.Executed:{0} was executed
+Message.HideGameSettings:Game settings have been hidden by the host.
+Message.NoDescription:No description.
+Message.KickedByDenyName:{0} was kicked because its name matched "{1}".
+Message.BanedByBanList:{0} has been banned because it has been banned in the past.
+Message.KickedByNoFriendCode:{0} was kicked because the friend code does not exist.
+Message.AddedPlayerToBanList:Added {0} to the ban list.
+Message.FailedToLoadOptions:Failed to load options
+Message.CopiedOptions:Copied options
+Message.ExportedOptions:Exported options
+Message.LoadedOptions:Loaded options
+Message.OnlyHostCanLoadOptions:Only the host can load options
+Warning.EgoistCannotWin:Egoist cannot win
+Warning.OverrideExiledPlayer:All ejects will be displayed as a tie since the jackals are in effect.
+Warning.InvalidRpc:Kicked {0} because an invalid RPC was received.\nPlease check that no mods other than TOH installed.
+Warning.NoModHost:No mod installed on the host
+Warning.MismatchedVersion:{0}\nhave a different version of {1}
+Warning.AutoExitAtMismatchedVersion:The host has no or a different version of {0}\nYou will be kicked in {1}
+Warning.NotMatchImpostorCount:Max/min number of Impostor roles is greater than the number of Impostors.
+Warning.NotMatchRoleCount:The role is not cast correctly because the minimum number of roles is greater than the number of players.
+Error.MeetingException:Error: {0}\r\nPlease use SHIFT+M+ENTER to end the meeting
+Error.InvalidRoleAssignment:Error: Invalid role found for a player during role assignment({0})
+Error.SpeedBoosterNullException:Error: The speed boost destination is null.\nPlease save the log and create a bug report ticket.
+Error.InvalidColor:Error: Only default colors are available.
+ErrorLevel1:Bugs may occur.
+ErrorLevel2:This may be a bug.
+ErrorLevel3:This version shouldn't have been released.
+TerminateCommand:Abort Command
+ERR-000-000-0:No Error
+ERR-000-900-0:Test Error Lv.0
+ERR-000-910-1:Test Error Lv.1
+ERR-000-920-2:Test Error Lv.2
+ERR-000-930-3:Test Error Lv.3
+ERR-000-804-1:TownOfHost does not support the Vanilla HnS, so unloaded.
+ERR-001-000-3:Main dictionary has duplicated keys.
+ERR-001-010-3:Duplicate Options ID
+ERR-002-000-1:Unsupported AmongUs version. Please update.
+DefaultSystemMessageTitle:【===== Messaggio Importante =====】
+MessageFromTheHost:【Messaggio dall Host】
+TabGroup.MainSettings:Impostazioni principali
+TabGroup.CrewmateRoles:Ruoli Crewmate
+TabGroup.NeutralRoles:Ruoli Neutrai
+TabGroup.ImpostorRoles:Ruoli Impostori
+TabGroup.Addons:Add-Ons
+ActiveRolesList:Lista Ruoli Attivi
+ForExample:Per Esempio
+ForceEnd:Annullato
+EveryoneDied:Nessuno è rimasto
+ForceEndText:Host ha annullato il gioco
+ShowResults:Vedi Risultati
+HideResults:Nascondi Risultati
+HideGameCodes:Nascondi Codice Lobby
+updateButton:Update
+updatePleaseWait:Attendi...
+updateManually:Update failed.\nPlease Update Manually.
+updateInProgress:Updating...
+announcementUpdate:<size=3f>Update v{0}</size>\n{1}
+announcementChangelog:<size=3f>ChangeLogs v{0}</size>\n{1}
+updateRestart:Update Finished!\nPlease restart the game.
+updateFailed:Update failed.
+onSetPublicNoLatest:Public rooms are only available in the latest version.\nPlease update.
+CanNotJoinPublicRoomNoLatest:You can't join public rooms without the latest version.\nPlease update.
+ModBrokenMessage:The MOD file is damaged.\nPlease reinstall.
+UnsupportedVersion:Unsupported AmongUs version.\nPlease update.
+DisabledByProgram:Public rooms have been disabled by the program
+PublicNotAvailableOnThisVersion:Le lobby pubbliche non sono disponibili in questa versione.
+EnterVentToWin:Entra in botola per vincere!!
+FireworksPutPhase:{0} Fireworks Left
+FireworksWaitPhase:Aspetta...
+FireworksReadyFirePhase:Spara!
+StandardHAS:Nascondino con ruoli
+StandardHASWaitingTime:Standby
+InvalidArgs:Invalid Args
+On:ON
+Off:OFF
+ColoredOn:<color=#4cb3fe>ON</color>
+ColoredOff:<color=#ff4c6f>OFF</color>
+CurrentActiveSettingsHelp:aiuto impostazioni attive correnti
+WitchCurrentMode:Current Mode:
+WitchModeKill:
+WitchModeSpell:Spell
+WitchModeDouble:Double Enable
+BountyCurrentTarget:Current Target
+StealthDarkened:Darkened: {0}
+Roles:Ruoli
+Settings:Impostazioni
+Addons:Add-Ons
+LastResult:Risultati
+KillLog:Kill Log
+Maximum:Max
+Rate0:0%
+Rate5:5%
+Rate10:10%
+Rate20:20%
+Rate30:30%
+Rate40:40%
+Rate50:50%
+Rate60:60%
+Rate70:70%
+Rate80:80%
+Rate90:90%
+Rate100:100%
+Preset:Preset
+Preset_1:Preset 1
+Preset_2:Preset 2
+Preset_3:Preset 3
+Preset_4:Preset 4
+Preset_5:Preset 5
+Standard:Standard
+GameMode:Game Mode
+PressTabToNextPage:Premi Tab o Numero per la pagina successiva...
+RoleSummaryText:Game End Player-Roles List:
+doOverride:Override %role%'s Tasks(At Least 1)
+assignCommonTasks:Give %role% Common Tasks
+roleLongTasksNum:%role% Long Tasks
+roleShortTasksNum:%role% Short Tasks
+Format.Players:{0}
+Format.Seconds:{0}s
+Format.Percent:{0}%
+Format.Times:{0}
+Format.Multiplier:{0}x
+Format.Votes:{0}
+Format.Pieces:{0}
+KillButtonText:Kill
+SniperSnipeButtonText:Mira
+FireWorksExplosionButtonText:Spara
+FireWorksInstallAtionButtonText:Set
+SerialKillerSuicideButtonText:Tempo suicidio
+WarlockCurseButtonText:Maledici
+WitchSpellButtonText:Incanta
+VampireBiteButtonText:Mordi
+ArsonistDouseButtonText:Innaffia
+PuppeteerOperateButtonText:Manipola
+BountyHunterChangeButtonText:Scambia
+EvilTrackerChangeButtonText:Traccia
+DefaultShapeshiftText:Muta
+DisabledBySettings:Disabled by Settings
+Disabled:Disabled
+FailToTrack:tracciamento fallito
+LastAdminInfo:Last-minute admin information
+MurderNotify:Omicidio
+Deadbody:MORTO
+PenguinKillButtonText:Drag
+PenguinTimerText:Drag Timer
+Infected:Infetto
